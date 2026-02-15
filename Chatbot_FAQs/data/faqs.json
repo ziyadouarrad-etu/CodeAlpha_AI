@@ -1,0 +1,68 @@
+[
+  {
+    "intent": "membership_info",
+    "questions": [
+      "how do I join gdg?",
+      "How can I join GDG on Campus ENSAM Casablanca?",
+      "How do I go about joining the club?",
+      "registration process for new members",
+      "how to become a member of gdg ensam",
+      "I want to sign up for the club",
+      "How to join the club?"
+    ],
+    "answer": "You can join by registering on the official Google Developers platform and following our ENSAM Casablanca chapter for event updates."
+  },
+  {
+    "intent": "club_activities",
+    "questions": [
+      "What kind of workshops do you organize?",
+      "what events do you have planned",
+      "tell me about your training sessions",
+      "topics you cover in workshops",
+      "what do you teach in gdg ensam casa"
+    ],
+    "answer": "We organize workshops on Web Development, AI/Machine Learning, Cloud Computing, and Mobile Development using Flutter."
+  },
+  {
+    "intent": "eligibility",
+    "questions": [
+      "Is the club open to all students at ENSAM?",
+      "can any student join gdg casa",
+      "are there specific requirements to join",
+      "is it for all levels and departments",
+      "can a first year student join the club",
+      "can anyone join the club?",
+      "who can become a member",
+      "are there any eligibility criteria",
+      "is gdg ensam casa open to all students",
+      "can students from any department join",
+      "is there a restriction on who can join the club",
+      "do i need to be in a specific program to join",
+      "are there any prerequisites for joining the club",
+      "can anyone join gdg ensam casa"
+    ],
+    "answer": "Yes, GDG on Campus is open to all students from all levels and departments at ENSAM Casablanca who are interested in technology."
+  },
+  {
+    "intent": "contact_details",
+    "questions": [
+      "How can I contact the bureau or the leads?",
+      "where can I find the team",
+      "how to reach out to the club leads",
+      "social media links for gdg ensam casa",
+      "how to message the club"
+    ],
+    "answer": "You can reach us through our official Instagram account, LinkedIn page, or by visiting our stand during the clubs' forum at the school."
+  },
+  {
+    "intent": "internship_help",
+    "questions": [
+      "Does the club help with finding internships?",
+      "how can gdg help me get an internship",
+      "do you provide internship opportunities",
+      "career help and internship search support",
+      "internship guidance for engineering students"
+    ],
+    "answer": "While we don't provide internships directly, we host career sessions, resume building workshops, and networking events to help students prepare for their applications."
+  }
+]

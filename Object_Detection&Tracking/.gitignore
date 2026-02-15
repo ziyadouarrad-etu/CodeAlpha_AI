@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtual Envs
+venv/
+env/
+.env
+
+# AI Models (YOLO weights)
+# We ignore these because the code downloads them automatically
+models/*.pt
+*.pt
+
+# Data & Logs
+# Ignore your personal test logs and the logs folder
+logs/
+*.csv
+
+# IDE specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
